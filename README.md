@@ -86,6 +86,10 @@ https://mcp.apify.com/?tools=actors,docs,johnvc/workday-careers-api
 
 The `actors` and `docs` tools let the assistant discover and read Apify docs, while preloading just this one Actor keeps the tool list small. Auth is either OAuth in the browser when offered, or your Apify API token (the same `APIFY_API_TOKEN` secret used by the Python example). Get a token at https://console.apify.com/settings/integrations and a free Apify account at https://apify.com?fpr=9n7kx3 .
 
+## Use from n8n
+
+Available as an n8n community node, **[n8n-nodes-workday-jobs-api](https://www.npmjs.com/package/n8n-nodes-workday-jobs-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-workday-jobs-api`, then use it in any workflow (it also works as an AI Agent tool).
+
 ## Install in Claude Cowork Desktop
 
 ![Install in Claude Cowork Desktop](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/install_mcp_into_claude_desktop.png)
