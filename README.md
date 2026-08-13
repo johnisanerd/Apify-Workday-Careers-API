@@ -216,4 +216,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 [View the Workday Careers API on Apify Store](https://apify.com/johnvc/workday-careers-api?fpr=9n7kx3)
 
-Last Updated: 2026.08.12
+Last Updated: 2026.08.13
