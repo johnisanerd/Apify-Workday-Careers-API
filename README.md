@@ -59,6 +59,17 @@ Each recipe is a one-click landing page on Apify Store; clone it and swap in you
 
 Tip: put any of these on an Apify Schedule (for example daily) and diff on `jobReqId` to catch new Workday job postings the day they appear.
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Workday Careers API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=How%20do%20I%20use%20the%20Workday%20Careers%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/workday-careers-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🧠 [Claude](https://claude.ai/new?q=How%20do%20I%20use%20the%20Workday%20Careers%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/workday-careers-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=How%20do%20I%20use%20the%20Workday%20Careers%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/workday-careers-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=How%20do%20I%20use%20the%20Workday%20Careers%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/workday-careers-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+<!-- ask-ai:end -->
+
 ## FAQ: people also ask
 
 **Does Workday have a REST API for job postings?**
